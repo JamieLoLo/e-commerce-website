@@ -205,13 +205,16 @@ header {
   border: none;
   font-size: 1rem;
 }
+.sign-up-input:focus {
+  outline: none;
+}
 .sign-up-button {
-  padding: 0.6rem 1rem;
+  padding: 0.6rem 0.8rem;
   color: #fff;
   background-color: black;
   border-radius: 0 50px 50px 0;
   border: none;
-  font-size: 0.8rem;
+  font-size: 1rem;
   font-weight: 600;
 }
 .sign-up-description {
