@@ -216,6 +216,7 @@ header {
   border: none;
   font-size: 1rem;
   font-weight: 600;
+  cursor: pointer;
 }
 .sign-up-description {
   font-size: 0.8rem;
