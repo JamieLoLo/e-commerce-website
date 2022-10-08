@@ -202,8 +202,8 @@ header {
 .sign-up-input {
   padding: 0.6rem 0.8rem;
   border-radius: 50px 0 0 50px;
-  border: none;
   font-size: 1rem;
+  border: none;
 }
 .sign-up-input:focus {
   outline: none;
